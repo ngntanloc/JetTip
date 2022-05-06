@@ -13,3 +13,5 @@
 
 ### Image
 ![](https://github.com/ngntanloc/JetTip/blob/main/Screenshot_20220502-001910.png)
+
+#### © 2022 TanLoc | fb.me/ngntanlocc
